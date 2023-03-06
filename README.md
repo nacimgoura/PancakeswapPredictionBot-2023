@@ -20,7 +20,7 @@ Then run the following commands in terminal:
 
 ![enter image description here](/img/setup.jpg?raw=true)
 
- 
+
  
 
 ## ⚙️ Setup
